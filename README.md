@@ -5,6 +5,7 @@
 ``` bash
 #Clone Project Github
 git clone https://github.com/fsalasevicius/facebookLoginWithPuppeteer.git
+cd .\facebookLoginWithPuppeteer\
 
 # install proyect
 npm install or yarn install
